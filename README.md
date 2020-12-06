@@ -18,8 +18,13 @@ But you will need my permission for that first of course.
 Install Instructions:
 
 Download the Zip File
-The Zip File and the Folder in it is called: Future-Battlefield-Pack-New-Techs-master
-Extract or Copy the Folder Future-Battlefield-Pack-New-Techs-master to your Mods Dictionary
-Rename the Folder Future-Battlefield-Pack-New-Techs-master to Future Battlefield Pack New Techs.
+
+The Zip File and the Folder in it is called: Future-Battlefield-Pack-Civilians-master
+
+Extract or Copy the Folder Future-Battlefield-Pack-Civilians-master to your Mods Dictionary
+
+Rename the Folder Future-Battlefield-Pack-Civilians-master to Future Battlefield Pack Civilians.
+
 Activate the Mod in the Mod manager
+
 Enjoy
